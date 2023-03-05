@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/admin-dashboard/static/css/main.9b8bea6e.css",
+    "main.js": "/admin-dashboard/static/js/main.baf59eb4.js",
+    "index.html": "/admin-dashboard/index.html",
+    "main.9b8bea6e.css.map": "/admin-dashboard/static/css/main.9b8bea6e.css.map",
+    "main.baf59eb4.js.map": "/admin-dashboard/static/js/main.baf59eb4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9b8bea6e.css",
+    "static/js/main.baf59eb4.js"
+  ]
+}
